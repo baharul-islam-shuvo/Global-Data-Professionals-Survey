@@ -4,6 +4,8 @@
 
 This Power BI report visualises the global **distribution, compensation, job‑satisfaction, and career‑switching trends** of data professionals. It consolidates survey responses into an interactive one‑page dashboard, enabling quick exploration by job title, country, and gender.
 
+![Description](overview.png)
+
 ## 🗂️ Dataset
 
 * **Source:** [Data Professional Survey Breakdown ― Kaggle](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown) *(collected by ****Alex Freberg**** a.k.a. Alex the Analyst)*
