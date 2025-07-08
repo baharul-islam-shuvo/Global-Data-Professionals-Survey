@@ -60,9 +60,6 @@ This Power BI report visualises the global **distribution, compensation, job‑
 └── LICENSE                   # MIT by default
 ```
 
-## 🤝 Contributing
-
-Pull requests are welcome! Please open an issue first to discuss major changes.
 
 ## 📝 License
 
@@ -71,6 +68,6 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 ## 🙏 Acknowledgements
 
 * **Alex Freberg (@AlexTheAnalyst)** ― for making the dataset public.
-* Power BI Community & NovyPro for inspiration.
+* Power BI Community.
 
 > *Data professionals keep the world’s data flowing—this dashboard is a snapshot of their journey.*
